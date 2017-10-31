@@ -442,7 +442,7 @@ options to specify exactly what you want shared from your notebook:
 
 ## Considerations while increasing the scale factor.
 This journey walks us through the steps that need to be performed to run the TPC-DS 
-bench-mark in the qualification scale factor(1GB).Since this is a performance bench-mark, typically 
+bench-mark in the qualification scale factor(1GB). Since this is a performance bench-mark, typically 
 we need to run the bench-mark in varying scale factors to gauge the throughput of the underlying data
 processing engine. In the section below, we will briefly touch up on things to be considered while increasing
 the data and running the workload against a production cluster.
